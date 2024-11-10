@@ -1,14 +1,16 @@
+# AWS를 활용한 S3 버킷 및 Lambda 함수 관리 자동화
+![AWS_실습_빅데이터9기_신유라](https://github.com/user-attachments/assets/222c83fb-fb6e-43d3-84b7-469925ffee28)
+
 ## Skills
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Boto3-4285F4?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;
 
+## 프로젝트 상세
 
-## 프로젝트 제목
-
-**AWS를 활용한 S3 버킷 및 Lambda 함수 관리 자동화**
-
+- **진행 기간**: 2024년 10월 23일
+- **프로젝트 유형**: 개인 프로젝트
 
 ## 프로젝트 목표
 
